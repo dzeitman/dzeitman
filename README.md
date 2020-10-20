@@ -20,7 +20,18 @@ Managed audience metrics and accounting for the end-to-end execution of the Star
 - 30+ minutes average audience engagmenent
 - Championed several SDK features and enhancements based on developer feedback.
 ### Links:
-[Star Wars App Demo](https://vimeo.com/400499649/bd228b1f81)   [The Star Wars Show](https://www.facebook.com/watch/?v=393671781359981) (Requires Facebook Login)
+- [Star Wars App Demo](https://vimeo.com/400499649/bd228b1f81)
+- [The Star Wars Show](https://www.facebook.com/watch/?v=393671781359981) (Requires Facebook Login)
+
+### Project: SweatWorks / Strava Fitness app - Apple Watch with Bose AR Integration
+As advocate and enablement lead; worked with the developement team at *Sweatworks* on a greenfield project to explore, design and develop a next generation fitness experience for the Apple Watch with Bose AR.
+
+- lead colaboration efforts with Bose AR Engineering team to port the Bose AR iOS SDK to support Apple Watch.
+- Developed a preliminary prototype application to demonstrate to our agency partner features of the Bose AR Apple Watch SDK.
+
+### Links:
+- [Apple Watch Bose AR SDK Feature Walkthrough and Prototype](https://vimeo.com/410422025/a1a7680b07)
+
 
 
 
