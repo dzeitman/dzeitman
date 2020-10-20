@@ -61,12 +61,18 @@ As advocate and enablement lead; worked with the developement team at *Sweatwork
 
 
 ## Thought Leadership, Demos, CodeLabs and Workshops
-My role focused on creative and technical development of unique demos, thought leadership, codelabs and workshops.
+My role as a developer advocate has focused on the creative and technical development of many unique demos, thought leadership writing, codelabs and workshops.
+
 ### Thought Leadership
-- [Bose AR Partnership for Music Innovation](https://medium.com/@danzeitman/bose-ar-and-capitol-records-partner-to-drive-innovation-in-music-400bc4804a0a)
+- [Bose.com: Bose AR Partnership for Music Innovation](https://medium.com/@danzeitman/bose-ar-and-capitol-records-partner-to-drive-innovation-in-music-400bc4804a0a)
+- [Hacker Noon](https://hackernoon.com/u/danzeitman)  (Various)
+- [Goodbye Channel API, Hello PubNub](https://medium.com/@danzeitman/goodbye-channel-api-hello-pubnub-284f0b749f3e) (PubNub)
+- [Magnet for Success](https://devca.mp/ps119sucess-6017a699eb17) (Developer Camp)
 ### Conference Talks
-- [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY)
-- [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)
+- [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY) (Bose)
+- [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)(Bose)
+- Developer Week San Francisco (Non-promotional slot)
+- Developer Week NYC (Non-promotional slot)
 ### Workshop Tutorials
 - [Workshop Introduction to Bose AR  (iOS)](https://bosedevs.gitbook.io/bose-ar-ios-workshop/)
 - [Tutorial Spatial Audio (Unity)](https://bosedevs.gitbook.io/spatial-audio-experiences-with-bose-ar/)
