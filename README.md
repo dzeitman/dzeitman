@@ -1,4 +1,7 @@
+
 ![Developer Advocate Dan Zeitman working with new developers](./DanDevRel.jpg)
+
+![Developer Advocate Dan Zeitman demos Star Wars to Director JJ Abrams](./Dan-JJ-Starwars.jpg)
 
 With over three decades of real-world experience, I've had the opportunity to take on a variety of roles to create, program and deliver many successful, websites, software and mobile applications for commercial brands, non-profit and corporate clients.
 
