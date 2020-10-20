@@ -42,8 +42,9 @@ Bose and Playcrafting teamed up to train developers to make games for the all-ne
 ## Project: UMG / Capitol 360 Lab
 BoseAR partnered with Capitol 360 Labs, the official innovation program of Capitol Records and Universal Music. This partnership was dedicated to providing new opportunities for innovation and drive tech forward in the music industry.  Responsible for program development and execution of a series of music industry workshops, events and hackathons.
 
-- 500 developer participated
-- 1500 SDK Signups
+- 5000 Developers and Music Industry Professionals participated in the event series.
+- Colaboration with serveral music artists and influencers
+- 1500+ SDK Signups
 
 ### Links:
 - [Bose and Capitol360 Detroit Code Jam](https://www.youtube.com/watch?v=L7SiIWxtc4U)
