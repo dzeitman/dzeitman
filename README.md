@@ -6,11 +6,11 @@ In previous roles in developer relations my attention to focus on business partn
 
 The most important key to my success has been my passionate and evolutional acquisition of new core skills in a variety of technologies, languages, frameworks and design patterns. 
 
-### Use Cases:
+# Projects and Use Cases:
 
-#### Bose - Bose AR Platform and SDK
+## Bose - Bose AR Platform and SDK
 This role focused on creative and technical development of unique experiences for major brand partners including, Disney, LucasFilm, Skywalker Sound, PGA Tour, Microsoft, Capitol Records / Universal Music Group.
-##### Project: The Bose AR Star Wars Experience
+### Project: The Bose AR Star Wars Experience
 Experience Producer for The Star Wars Bose AR Experience; designed with exclusive content enhanced for Bose AR wearables. The project launched on time, within three months from initial POC to App Store deliverable to almost exact specifications; A centerpiece of a larger brand activation, with interdependent components including product tie-ins, a branded landing page, new analytics, a media campaign, and several launch activities.
 
 Managed audience metrics and accounting for the end-to-end execution of the Star Wars project, outlining improved approaches, crafting, marketing and worked with PR for speaking on behalf of the innovation.
