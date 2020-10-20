@@ -23,6 +23,19 @@ Managed audience metrics and accounting for the end-to-end execution of the Star
 - [Star Wars App Demo](https://vimeo.com/400499649/bd228b1f81)
 - [The Star Wars Show](https://www.facebook.com/watch/?v=393671781359981) (Requires Facebook Login)
 
+### Project: Playcrafting 
+Bose and Playcrafting and Bose teamed up to train developers to make games for the all-new Bose AR.
+Through this collaboration, hundreds of top-tier developers were trained and created exclusive games for Bose AR. Custom game jams took place in **Boston, New York, San Francisco, Seattle, and San Diego**. Each was the start of development cycles to bring the games to launch on the App Store and Google Play.
+
+- 5 Custom Game Jams
+- 30k+ Developers Reached
+- 500 SDK Signups
+- 211 Developers Trained
+- 40 Videos Produced
+- 32 Games Released to Apple and Google Play Store
+### Links:
+[Bose x Playcrafting Alliance](https://www.youtube.com/watch?v=cWiNMmSQLUs)
+
 ### Project: SweatWorks / Strava Fitness app - Apple Watch with Bose AR Integration
 As advocate and enablement lead; worked with the developement team at *Sweatworks* on a greenfield project to explore, design and develop a next generation fitness experience for the Apple Watch with Bose AR.
 
