@@ -72,6 +72,7 @@ This is executed through creative focus and the development of many unique techn
 ### Conference Talks
 - [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY) (Bose)
 - [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)(Bose)
+- [VueJS Conf - Lightning talk: Build a MiniFlix Clone with Vue Contest](https://codetalks.tv/talk/build-a-miniflix-clone-with-vue-contest-with-dan-zeitman-a1x5c3ekawu)
 - [DeveloperWeek San Francisco](https://developerweeksfbayarea2018.sched.com/dan812)  
 - [DeveloperWeek NYC](https://developerweekny2018.sched.com/speaker/dan812)  
 ### Hackaton Guides
