@@ -26,8 +26,11 @@ Managed audience metrics and accounting for the end-to-end execution of the Star
 ### Project: SweatWorks / Strava Fitness app - Apple Watch with Bose AR Integration
 As advocate and enablement lead; worked with the developement team at *Sweatworks* on a greenfield project to explore, design and develop a next generation fitness experience for the Apple Watch with Bose AR.
 
-- lead colaboration efforts with Bose AR Engineering team to port the Bose AR iOS SDK to support Apple Watch.
+- Lead colaboration efforts with Bose AR Engineering team to port the Bose AR iOS SDK to support Apple Watch.
+- Developed initial SDK integration
 - Developed a preliminary prototype application to demonstrate to our agency partner features of the Bose AR Apple Watch SDK.
+- Fostered agency partner's success with out SDK integration by providing clear and consise code sample and best practices for integration of sensor data and spatial audio.
+- Solicited developer feedback to improve the SDK. 
 
 ### Links:
 - [Apple Watch Bose AR SDK Feature Walkthrough and Prototype](https://vimeo.com/410422025/a1a7680b07)
