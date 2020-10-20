@@ -4,9 +4,9 @@ With over three decades of real-world experience, I've had the opportunity to ta
 
 Most recently at Bose I had the wonderful opportunity to take the lead in developing and providing the company with forward looking vision of new software and hardware experiences. This role enabled me to leverage my partnership and business development skills, combined with true creativity and and a broader understanding as SME in XR and Spatial Audio to produce prototype concepts, and then take that vision forward to market. I feel there’s no better realization of my true impact at Bose than in the execution of that vision which shipped with the Star Wars Bose AR experience with Disney, Lucasfilm and Skywalker Sound. 
 
-In previous roles in developer relations my attention to focus on business partnership development, content creation, thought leadership and developer advocacy helped create impact for the startups I worked with. 
+It is my strong belief that success in DevRel stems from building strong relationships with developers and being a voice and advocate within the developer community. It's this unique mix of experience with business partnership development, content creation, thought leadership and developer advocacy that has helped create significant impact for the startups I work with. 
 
-The most important key to my success has been my passionate and evolutional acquisition of new core skills in a variety of technologies, languages, frameworks and design patterns. 
+The most important key to my success has been my passionate and evolutional acquisition of new core skills in a variety of technologies, languages, frameworks and design patterns. I truly love sharing my skills with developers of all levels of expertise through direct interaction, thought leadership, writing and the creation of compelling content demos.
 
 # Featured Projects and Use Cases:
 
