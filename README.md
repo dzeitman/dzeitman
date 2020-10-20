@@ -64,10 +64,10 @@ As advocate and enablement lead; worked with the developement team at *Sweatwork
 My role as a developer advocate has focused on the creative and technical development of many unique demos, thought leadership writing, codelabs and workshops.
 
 ### Thought Leadership
-- [Bose.com: Bose AR Partnership for Music Innovation](https://medium.com/@danzeitman/bose-ar-and-capitol-records-partner-to-drive-innovation-in-music-400bc4804a0a)
-- [Hacker Noon](https://hackernoon.com/u/danzeitman)  (Various)
+- [Bose.com: Bose AR Partnership for Music Innovation](https://medium.com/@danzeitman/bose-ar-and-capitol-records-partner-to-drive-innovation-in-music-400bc4804a0a) (Bose)
 - [Goodbye Channel API, Hello PubNub](https://medium.com/@danzeitman/goodbye-channel-api-hello-pubnub-284f0b749f3e) (PubNub)
 - [Magnet for Success](https://devca.mp/ps119sucess-6017a699eb17) (Developer Camp)
+- [Hacker Noon](https://hackernoon.com/u/danzeitman)  (Various)
 ### Conference Talks
 - [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY) (Bose)
 - [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)(Bose)
@@ -78,6 +78,5 @@ My role as a developer advocate has focused on the creative and technical develo
 - [Tutorial Spatial Audio (Unity)](https://bosedevs.gitbook.io/spatial-audio-experiences-with-bose-ar/)
 ### Demos and Blueprint Applications
 - [Discover Music (Blueprint)](https://cloudinary.gitbook.io/cil-hackathon-guide/blueprints/discover-music)
-- []()
-- []()
-- []()
+- [Discover Music (VueJS)](https://github.com/cloudinary-developers/discover-cmg-music)
+- [Music Discovery Service (FAAS - Node)](https://github.com/cloudinary-developers/music-discovery-service)
