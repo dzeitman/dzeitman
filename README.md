@@ -58,10 +58,9 @@ As advocate and enablement lead; worked with the developement team at *Sweatwork
 ### Links:
 - [Apple Watch Bose AR SDK Feature Walkthrough and Prototype](https://vimeo.com/410422025/a1a7680b07)
 
-
-
-## Thought Leadership, Demos, CodeLabs and Workshops
-My role as a developer advocate has focused on the creative and technical development of many unique demos, thought leadership writing, codelabs and workshops.
+# Thought Leadership, Demos, CodeLabs and Workshops
+My primary role as as a developer advocate is to inspire and create sucess for developers using the products, SDKS and APIS of the companies I work with.
+This is executed through creative focus and the development of many unique technical demos,blueprint applications, codelabs, workshops and thought leadership writing.
 
 ### Thought Leadership
 - [Bose.com: Bose AR Partnership for Music Innovation](https://medium.com/@danzeitman/bose-ar-and-capitol-records-partner-to-drive-innovation-in-music-400bc4804a0a) (Bose)
@@ -73,6 +72,8 @@ My role as a developer advocate has focused on the creative and technical develo
 - [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)(Bose)
 - Developer Week San Francisco (Non-promotional slot)
 - Developer Week NYC (Non-promotional slot)
+### Hackaton Guides
+- [Capitol Records Hackathon](https://cloudinary.gitbook.io/cil-hackathon-guide/)
 ### Workshop Tutorials
 - [Workshop Introduction to Bose AR  (iOS)](https://bosedevs.gitbook.io/bose-ar-ios-workshop/)
 - [Tutorial Spatial Audio (Unity)](https://bosedevs.gitbook.io/spatial-audio-experiences-with-bose-ar/)
