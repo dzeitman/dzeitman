@@ -1,3 +1,5 @@
+
+![Dan Zeitman](https://i.imgur.com/z1kB7NN.jpg)
 With over three decades of real-world experience, I've had the opportunity to take on a variety of roles to create, program and deliver many successful, websites, software and mobile applications for commercial brands, non-profit and corporate clients.
 
 Most recently at Bose I had the wonderful opportunity to take the lead in developing and providing the company with forward looking vision of new software and hardware experiences. This role enabled me to leverage my partnership and business development skills, combined with true creativity and and a broader understanding as SME in XR and Spatial Audio to produce prototype concepts, and then take that vision forward to market. I feel there’s no better realization of my true impact at Bose than in the execution of that vision which shipped with the Star Wars Bose AR experience with Disney, Lucasfilm and Skywalker Sound. 
@@ -70,8 +72,8 @@ This is executed through creative focus and the development of many unique techn
 ### Conference Talks
 - [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY) (Bose)
 - [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)(Bose)
-- Developer Week San Francisco (Non-promotional slot)
-- Developer Week NYC (Non-promotional slot)
+- [DeveloperWeek San Francisco](https://developerweeksfbayarea2018.sched.com/dan812)  
+- [DeveloperWeek NYC](https://developerweekny2018.sched.com/speaker/dan812)  
 ### Hackaton Guides
 - [Capitol Records Hackathon](https://cloudinary.gitbook.io/cil-hackathon-guide/)
 ### Workshop Tutorials
