@@ -18,6 +18,7 @@ Managed audience metrics and accounting for the end-to-end execution of the Star
 - Multi-milliondar campaign
 - 85m+ impressions 
 - 30+ minutes average audience engagmenent
+- Webby Award: Best Entertainment App 
 - Championed several SDK features and enhancements based on developer feedback.
 ### Links:
 - [Star Wars App Demo](https://vimeo.com/400499649/bd228b1f81)
