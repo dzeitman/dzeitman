@@ -20,7 +20,7 @@ Managed audience metrics and accounting for the end-to-end execution of the Star
 - 30+ minutes average audience engagmenent
 - Championed several SDK features and enhancements based on developer feedback.
 ### Links:
-[Star Wars App Demo](https://vimeo.com/400499649/bd228b1f81)
+[Star Wars App Demo](https://vimeo.com/400499649/bd228b1f81)   [The Star Wars Show](https://www.facebook.com/watch/?v=393671781359981) (Requires Facebook Login)
 
 
 
