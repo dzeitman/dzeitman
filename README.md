@@ -59,7 +59,13 @@ As advocate and enablement lead; worked with the developement team at *Sweatwork
 - [Apple Watch Bose AR SDK Feature Walkthrough and Prototype](https://vimeo.com/410422025/a1a7680b07)
 
 
-## Cloudinary
+
+## Thought Leadership, Demos, CodeLabs and Workshops
 My role focused on creative and technical development of unique demos, thought leadership, codelabs and workshops.
-
-
+### Conference Talks
+- [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY)
+- [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)
+### Workshop Tutorials
+- []()
+- []()
+- []()
