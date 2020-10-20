@@ -62,10 +62,16 @@ As advocate and enablement lead; worked with the developement team at *Sweatwork
 
 ## Thought Leadership, Demos, CodeLabs and Workshops
 My role focused on creative and technical development of unique demos, thought leadership, codelabs and workshops.
+### Thought Leadership
+- [Bose AR Partnership for Music Innovation](https://medium.com/@danzeitman/bose-ar-and-capitol-records-partner-to-drive-innovation-in-music-400bc4804a0a)
 ### Conference Talks
 - [AWE Munich 2019 - Bose AR Wearables and AI](https://youtu.be/dYfCTavWQxY)
 - [AI & Machine Learning Summit - Bose AR Framework with Machine Learning](https://youtu.be/unlDICV7r0k)
 ### Workshop Tutorials
+- [Workshop Introduction to Bose AR  (iOS)](https://bosedevs.gitbook.io/bose-ar-ios-workshop/)
+- [Tutorial Spatial Audio (Unity)](https://bosedevs.gitbook.io/spatial-audio-experiences-with-bose-ar/)
+### Demos and Blueprint Applications
+- [Discover Music (Blueprint)](https://cloudinary.gitbook.io/cil-hackathon-guide/blueprints/discover-music)
 - []()
 - []()
 - []()
