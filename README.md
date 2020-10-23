@@ -51,6 +51,7 @@ BoseAR partnered with Capitol 360 Labs, the official innovation program of Capit
 
 ### Links:
 - [Bose and Capitol360 Detroit Code Jam](https://www.youtube.com/watch?v=L7SiIWxtc4U)
+- [Capatol 360 Hackathon](https://youtu.be/-Gw95Yh9qNQ)
 
 ## Project: SweatWorks / Strava Fitness app - Apple Watch with Bose AR Integration
 As advocate and enablement lead; worked with the developement team at *Sweatworks* on a greenfield project to explore, design and develop a next generation fitness experience for the Apple Watch with Bose AR.
