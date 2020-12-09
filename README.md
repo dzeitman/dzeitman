@@ -23,7 +23,7 @@ Managed audience metrics and accounting for the end-to-end execution of the Star
 
 - Multi-milliondar campaign
 - 85m+ impressions 
-- 30+ minutes average audience engagmenent
+- 30+ minutes average audience engagement
 - Webby Award: Best Entertainment App 
 - Championed several SDK features and enhancements based on developer feedback.
 ### Links:
