@@ -3,15 +3,23 @@
 
 ![Developer Advocate Dan Zeitman demos Star Wars to Director JJ Abrams](./Dan-JJ-Starwars.jpg)
 
-With over three decades of real-world experience, I've had the opportunity to take on a variety of roles to create, program and deliver many successful, websites, software and mobile applications for commercial brands, non-profit and corporate clients.
+I am a seasoned developer with over three decades of real-world experience in creating, programming, and delivering websites, software, and mobile applications for a diverse range of clients. My portfolio includes projects for commercial brands, non-profits, and corporations, showcasing my ability to adapt to various industries and client needs.
 
-Most recently at Bose I had the wonderful opportunity to take the lead in developing and providing the company with forward looking vision of new software and hardware experiences. This role enabled me to leverage my partnership and business development skills, combined with true creativity and and a broader understanding as SME in XR and Spatial Audio to produce prototype concepts, and then take that vision forward to market. I feel there’s no better realization of my true impact at Bose than in the execution of that vision which shipped with the Star Wars Bose AR experience with Disney, Lucasfilm and Skywalker Sound. 
+During my time at Dolby, I led a dynamic team in designing and releasing milestone versions of the RTS Unity Publisher and Player plugins. These releases elevated the plugins from basic streaming operations to a whole new level of capabilities, unlocking numerous exciting use cases. Additionally, I had the privilege of developing captivating demo experiences for Dolby.io's activations at events like SXSW, where I showcased technical and customer demos that left a lasting impression on developers.
 
-It is my strong belief that success in DevRel stems from building strong relationships with developers. Most importantly achieved by being an empathetic listener, and acting on their behalf to amplify their voice and advocate their feedback for the products I represent within the developer community. It's this unique mix of practical developer experience coupled with developer relationship and business partnership development, content creation, thought leadership and developer advocacy that has helped me create significant impact for the startups I work with. 
+As an advocate for developer relations, I firmly believe that building strong relationships with developers is the key to success. I strive to be an empathetic listener, amplifying their voices and advocating for their needs within the developer community. Through my practical developer experience, business partnership development, thought leadership, and content creation, I have consistently made a significant impact on the startups I collaborate with.
 
-The most important key to my success has been my passionate and evolutional acquisition of new core skills in a variety of technologies, languages, frameworks and design patterns. I truly love sharing my skills with developers of all levels of expertise through direct interaction, thought leadership, writing and the creation of compelling content demos.
+I have a passion for continuous learning and staying up-to-date with the latest technologies, languages, frameworks, and design patterns. Sharing my knowledge with developers of all levels brings me joy, and I engage with the community through direct interaction, thought leadership, writing, and the creation of compelling content demos.
 
 # Featured Projects and Use Cases:
+## Dolby - Unity RTS Plugin/SDK
+Successfully led a small agile engineering and product team in designing and releasing versions 1.0 and 1.2 of the RTS Unity Publisher and Player plugins. Dolby’s first Unity Plugin product to go GA. This series of milestone releases takes the plugins from basic streaming operations to a differentiated level of capabilities, enabling a multitude of new use casess
+
+## Demo Experience Lead SXSW (2 Years) 
+Successfully developed the demo experience for Dolby.io's developer relations and marketing activations at SXSW. Leading our teams collaborative effort to showcase over 10 technical and customer demos, with attention to details of the experience, the developer messaging and overall expereince. 
+
+## [Build The World Hackathon](https://dolbyio-hackathon-2021.devpost.com/?ref_feature=challenge&ref_medium=discover)
+Concieved, developed and manage the program for Dolby's first hackathon. This include developing virtual office hours, sponsorship alliances with Cloudinary and Netlify, the online event drew 505 participants, resulting in 27 validated and complete projects. 
 
 ## Bose - Bose AR Platform and SDK
 My role focused on creative and technical development of unique experiences for major brand partners including, Disney, LucasFilm, Skywalker Sound, PGA Tour, Microsoft, Capitol Records / Universal Music Group.
