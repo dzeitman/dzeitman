@@ -12,11 +12,11 @@ As an advocate for developer relations, I firmly believe that building strong re
 I have a passion for continuous learning and staying up-to-date with the latest technologies, languages, frameworks, and design patterns. Sharing my knowledge with developers of all levels brings me joy, and I engage with the community through direct interaction, thought leadership, writing, and the creation of compelling content demos.
 
 # Featured Projects and Use Cases:
-## Dolby - Unity RTS Plugin/SDK
+## Dolby - Real-time Streaming Unity Plugin and SDK
 Successfully led a small agile engineering and product team in designing and releasing versions 1.0 and 1.2 of the RTS Unity Publisher and Player plugins. Dolby’s first Unity Plugin product to go GA. This series of milestone releases takes the plugins from basic streaming operations to a differentiated level of capabilities, enabling a multitude of new use casess
 
-## Demo Experience Lead SXSW (2 Years) 
-Successfully developed the demo experience for Dolby.io's developer relations and marketing activations at SXSW. Leading our teams collaborative effort to showcase over 10 technical and customer demos, with attention to details of the experience, the developer messaging and overall expereince. 
+## Dolby - Demo Experience Lead SXSW (2 Years) 
+Successfully lead and developed the demo experience for Dolby.io's developer relations and marketing activations at SXSW. Leading our teams collaborative effort to showcase over 10 technical and customer demos, with attention to details of the experience, the developer messaging and overall expereince. 
 
 ## [Build The World Hackathon](https://dolbyio-hackathon-2021.devpost.com/?ref_feature=challenge&ref_medium=discover)
 Concieved, developed and manage the program for Dolby's first hackathon. This include developing virtual office hours, sponsorship alliances with Cloudinary and Netlify, the online event drew 505 participants, resulting in 27 validated and complete projects. 
